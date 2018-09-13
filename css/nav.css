@@ -5,8 +5,9 @@
 }
 
 nav a:hover{
-	transition: font-size 1s;
-	font-size: 1.1em;
+  opacity: 0.5;
+  border-bottom: solid;
+  border-width: 2px;
 }
 
 #nav-font-family{
@@ -28,4 +29,5 @@ nav a:hover{
     text-align: center;
     background-color: whitesmoke;
 }
+
 /* End of Navigation Bar */
