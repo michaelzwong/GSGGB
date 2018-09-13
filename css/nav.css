@@ -22,3 +22,10 @@ nav a:hover{
 	border-bottom: solid;
     border-width: 2px;
 }
+
+.dropdown-menu{
+    width: 100%;
+    text-align: center;
+    background-color: whitesmoke;
+}
+/* End of Navigation Bar */
