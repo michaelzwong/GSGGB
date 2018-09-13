@@ -1,7 +1,5 @@
 /* Navigation Bar */
 .navbar-nav > li > a {
-    padding-top: 5px !important;
-    padding-bottom: 5px !important;
 }
 
 nav a:hover{
@@ -10,9 +8,10 @@ nav a:hover{
   border-width: 2px;
 }
 
+nav {
+}
 #nav-font-family{
     font-family: Georgia, serif;
-    font-size: 18px;
 }
 
 #nav-color{
