@@ -21,40 +21,6 @@
 }
 /* End of Top */
 
-
-/* Navigation Bar */
-.navbar-nav > li > a {
-    padding-top: 5px !important;
-    padding-bottom: 5px !important;
-}
-
-nav a:hover{
-	transition: font-size 1s;
-	font-size: 1.1em;
-}
-
-#nav-font-family{
-    font-family: Georgia, serif;
-    font-size: 18px;
-}
-
-#nav-color{
-    color: black;
-}
-
-.active a {
-	border-bottom: solid;
-    border-width: 2px;
-}
-
-.dropdown-menu{
-    width: 100%;
-    text-align: center;
-    background-color: whitesmoke;
-}
-/* End of Navigation Bar */
-
-
 /* Background colors */
 .white-background{
     background-color: white;
