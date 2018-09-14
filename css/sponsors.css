@@ -33,36 +33,48 @@
     font-family: Georgia, serif;
     font-weight: bold;
     color: #7F7679;
+    text-align: center;
+    padding:20px;
 }
 
 .gold-subtitle{
     font-family: Georgia, serif;
     font-weight: bold;
     color: #D4AF37;
+    text-align: center;
+    padding: 20px;
 }
 
 .silver-subtitle{
     font-family: Georgia, serif;
     font-weight: bold;
     color: #C0C0C0;
+    text-align: center;
+    padding: 20px;
 }
 
 .bronze-subtitle{
     font-family: Georgia, serif;
     font-weight: bold;
     color: #CD7F32;
+    text-align: center;
+    padding: 20px;
 }
 
 .partner-subtitle{
     font-family: Georgia, serif;
     font-weight: bold;
     color: black;
+    text-align: center;
+    padding: 20px;
 }
 
 .orange-subtitle{
     font-family: Georgia, serif;
     font-weight: bold;
     color: darkorange;
+    text-align: center;
+    padding: 20px;
 }
 /* End of sponsors title for each section */
 
